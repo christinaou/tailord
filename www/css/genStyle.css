@@ -1,0 +1,36 @@
+.title-center {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.body {
+    margin-top: 0px;
+}
+
+#topimage {
+    display: block;
+    margin-left: 96px;
+}
+
+#bottomimage {
+    display: block;
+    margin: 0 auto;
+}
+
+#colorpalette {
+    height: 18px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.subtitleman {
+    margin-top: 8px;
+}
+
+#heart {
+    width: 30px;
+    float: right;
+    margin-right: 40px;
+}

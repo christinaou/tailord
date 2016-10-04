@@ -1,0 +1,179 @@
+/** { outline: 2px dotted red }
+* * { outline: 2px dotted green }
+* * * { outline: 2px dotted orange }
+* * * * { outline: 2px dotted blue }
+* * * * * { outline: 1px solid red }
+* * * * * * { outline: 1px solid green }
+* * * * * * * { outline: 1px solid orange }
+* * * * * * * * { outline: 1px solid blue }
+*/
+
+p {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+*:focus {
+    outline: none;
+}
+
+/*.wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    width: 750px;
+    height: 1334px;
+    background-color: #f7f0e3;
+}*/
+
+
+.tabs .tab-item .icon.inventory_grey {
+  background-repeat: no-repeat;
+  /*background-position: 50%;*/
+  position: relative;
+  top: 20%;
+  left: 35%;
+  background-image: url('../img/navbar/inventory_grey.png');
+  background-size:contain;
+}
+
+
+.tabs .tab-item .icon.inventory {
+  background-repeat: no-repeat;
+  position: relative;
+  top: 20%;
+  left: 35%;
+  background-image: url('../img/navbar/inventory.png');
+  background-size:contain;
+}
+
+.tabs .tab-item .icon.camera_grey {
+  background-repeat: no-repeat;
+  position: relative;
+  top: 20%;
+  left: 35%;
+  background-image: url('../img/navbar/camera_grey.png');
+  background-size:contain;
+}
+
+
+.tabs .tab-item .icon.camera {
+  background-repeat: no-repeat;
+  position: relative;
+  top: 20%;
+  left: 35%;
+  background-image: url('../img/navbar/camera.png');
+  background-size:contain;
+}
+
+.tabs .tab-item .icon.generate_grey {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 90%;
+  background-image: url('../img/navbar/generate_grey.png');
+  background-size:contain;
+  padding-top: 0px;
+}
+
+
+.tabs .tab-item .icon.generate {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 90%;
+  background-image: url('../img/navbar/generate.png');
+  background-size:contain;
+  padding-top: 0px;
+}
+
+.tabs .tab-item .icon.shirt_grey {
+  background-repeat: no-repeat;
+  position: relative;
+  top: 20%;
+  left: 35%;
+  background-image: url('../img/navbar/shirt_grey.png');
+  background-size:contain;
+}
+
+
+.tabs .tab-item .icon.shirt {
+  background-repeat: no-repeat;
+  position: relative;
+  top: 20%;
+  left: 35%;
+  background-image: url('../img/navbar/shirt.png');
+  background-size:contain;
+}
+
+.tabs .tab-item .icon.settings_grey {
+  background-repeat: no-repeat;
+  position: relative;
+  top: 20%;
+  left: 35%;
+  background-image: url('../img/navbar/settings_grey.png');
+  background-size:contain;
+}
+
+
+.tabs .tab-item .icon.settings {
+  background-repeat: no-repeat;
+  position: relative;
+  top: 20%;
+  left: 35%;
+  background-image: url('../img/navbar/settings.png');
+  background-size:contain;
+}
+
+.tab-nav {
+    background-color: #f7f0e3;
+    padding-bottom: 2px;
+    padding-top: 10px;
+    height: 65px;
+}
+
+
+
+#title-text {
+    font-size: 20px;
+}
+
+.wrapper {
+    background-color: #f7f0e3;
+    width: 750;
+    height: 1334px;
+}
+
+.title  {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-size: 40px;
+  font-family: 'Fjalla One', sans-serif;
+  color: #383534;
+}
+
+.line-separator{
+    height: 2px;
+    background:#383534;
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    border-bottom: 1px solid #313030;
+    margin-bottom: 20px
+}
+
+.subtitle   {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    font-size: 15px;
+    font-family: 'Fjalla One', sans-serif;
+    color: #383534;
+}
+
+#navbar {
+  outline: 0;
+}
+
+
+
+

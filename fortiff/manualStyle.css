@@ -1,0 +1,77 @@
+.subtitle1 {
+   padding-bottom: 0px;
+}
+.imgtop {
+   margin-right: auto;
+   margin-left: auto;
+   position: relative;
+   width: 150px; /*width of your image*/
+   height: auto; /*height of your image*/
+   padding-top: 0px;
+}
+
+.imgbot {
+   margin-right: auto;
+   margin-left: auto;
+   position: relative;
+   width: 130px; /*width of your image*/
+   height: auto; /*height of your image*/
+   padding-top: 10px;
+}
+
+.img_l {
+   margin-right: auto;
+   margin-left: auto;
+   position: relative;
+   width: 350px; /*width of your image*/
+   height: auto; /*height of your image*/
+   display: inline-block; /* add */
+   padding-left: 20px;
+   padding-right: 10px;
+}
+
+.img_r {
+   margin-right: auto;
+   margin-left: auto;
+   position: relative;
+   width: 350px; /*width of your image*/
+   height: auto; /*height of your image*/
+   display: inline-block; /* add */
+   padding-left: 10px;
+   padding-right: 20px;
+}
+
+#small-button   {
+  text-align: left;
+  padding-bottom: 0px;
+  padding-left: 150px;
+  font-size: 15px;
+  font-family: 'Fjalla One', sans-serif;
+  color: #383534;
+  display: inline-block; 
+
+}
+
+.header-image {
+   margin-right: auto;
+   margin-left: auto;
+   position: relative;
+   width: 110px; /*width of your image*/
+   height: auto; /*height of your image*/
+   display: inline-block; /* add */
+   padding-left: 40px;
+   padding-top: 20px;
+}
+
+#mansubtitle   {
+  text-align: left;
+  padding-top: 80px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  font-size: 40px;
+  font-family: 'Fjalla One', sans-serif;
+  color: #383534;
+  display: inline-block; 
+}
+
+

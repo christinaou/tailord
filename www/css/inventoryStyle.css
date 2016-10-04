@@ -1,0 +1,85 @@
+
+
+
+
+.menu  {
+   margin-right: auto;
+   margin-left: auto;
+   position: relative;
+   text-align: center;
+   margin-top: 20px;
+   background-color: transparent;
+}
+
+#closetbutton {
+   background-color: transparent;
+   border-style: none;
+   display: inline-block;
+   font-family: 'Fjalla One', sans-serif;
+   font-size: 30px;
+   color: #383534;
+}
+
+#favoritedbutton {
+   background-color: transparent;
+   border-style: none;
+   display: inline-block;
+   font-family: 'Fjalla One', sans-serif;
+   font-size: 30px;
+   padding-left: 30px;
+   color: #9E968E;
+}
+
+#closet  {
+   margin-right: auto;
+   margin-left: auto;
+   position: relative;
+   text-align: center;
+}
+
+.tabcontent1  {
+   font-family: 'Fjalla One', sans-serif;
+   color: #383534;
+}
+
+#favorited  {
+   margin-right: auto;
+   margin-left: auto;
+   position: relative;
+   text-align: center;
+}
+
+.tabcontent2  {
+   font-family: 'Fjalla One', sans-serif;
+   color: #383534;
+}
+
+.image1 {
+   margin-right: auto;
+   margin-left: auto;
+   position: relative;
+   width: 350px; /*width of your image*/
+   height: auto; /*height of your image*/
+   display: inline-block; /* add */
+   padding-left: 20px;
+   padding-right: 10px;
+}
+.image2 {
+   margin-right: auto;
+   margin-left: auto;
+   position: relative;
+   width: 350px; /*width of your image*/
+   height: auto; /*height of your image*/
+   display: inline-block; /* add */
+   padding-left: 10px;
+   padding-right: 20px;
+}
+
+/*#title  {
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 40px;
+  font-size: 60px;
+  font-family: 'Fjalla One', sans-serif;
+  color: #383534;
+}*/
